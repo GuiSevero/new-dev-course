@@ -79,7 +79,7 @@ The server can verify a JWT **without any database lookup**: recompute the signa
 
 **When sessions are better:** a normal web app with a browser and one backend. Which is you.
 
-📖 [Stop using JWT for sessions](https://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) — a decade old, still the clearest statement of the argument
+📖 [Stop using JWT for sessions](https://web.archive.org/web/20250113005244/http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) — a decade old, still the clearest statement of the argument. *(Archived copy: the original is served over plain HTTP only, which — given §6.2 — would be a poor link to hand you.)*
 📖 [RFC 7519](https://datatracker.ietf.org/doc/html/rfc7519) · [jwt.io](https://jwt.io/) (decode tokens, safely — it's client-side)
 
 **Where to store a token in a browser:** in an `HttpOnly` cookie (Module 06). Not `localStorage`, which any XSS or compromised dependency can read. This is the consensus position and it's why sessions-in-cookies remains the default for web apps.

@@ -91,7 +91,7 @@ The list is long. That's a menu, not an assignment. Pick the ⭐ items first.
 - [Drizzle docs](https://orm.drizzle.team/docs/overview)
 - [CMU Intro to Database Systems](https://15445.courses.cs.cmu.edu/) — a real university course, free
 - 💵📕 [Designing Data-Intensive Applications](https://dataintensive.net/) ⭐ — read it eventually. Ch. 7 on transactions is unmatched.
-- [Bobby Tables](https://bobby-tables.com/) — SQL injection, humorously
+- [xkcd 327: Exploits of a Mom](https://xkcd.com/327/) — SQL injection, humorously
 
 ### 08 — Backend
 - [Hono docs](https://hono.dev/docs/) ⭐ · [Hono validation](https://hono.dev/docs/guides/validation) · [Hono RPC](https://hono.dev/docs/guides/rpc)
@@ -107,7 +107,7 @@ The list is long. That's a menu, not an assignment. Pick the ⭐ items first.
 - [OIDC: how it works](https://openid.net/developers/how-connect-works/)
 - [Better Auth docs](https://www.better-auth.com/docs)
 - [OWASP: Password Storage](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) ⭐ · [Session Management](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html) · [Authorization](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html)
-- [Stop using JWT for sessions](https://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
+- [Stop using JWT for sessions](https://web.archive.org/web/20250113005244/http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
 - [jwt.io](https://jwt.io/) · [RFC 7519](https://datatracker.ietf.org/doc/html/rfc7519)
 - [NIST Digital Identity Guidelines](https://pages.nist.gov/800-63-4/sp800-63b.html) — what password rules should actually be
 
