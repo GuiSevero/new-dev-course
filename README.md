@@ -129,3 +129,11 @@ You need:
 - Patience for the specific feeling of *"I have no idea what this error means."* That feeling is the job. Professionals feel it daily; they've just built the habit of calmly reading the message instead of panicking.
 
 Now go to [Module 00](00-setup.md).
+
+---
+
+## License
+
+© 2026 Guilherme Severo. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+You're free to share and adapt this course — including for teaching inside your own company — as long as you give credit. If you improve it, a pull request would be welcome.
